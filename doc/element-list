@@ -1,0 +1,10 @@
+com.cognizant.controller
+com.cognizant.Defects.controller
+com.cognizant.Defects.management
+com.cognizant.dto
+com.cognizant.entities
+com.cognizant.globalExceptionHandling
+com.cognizant.main
+com.cognizant.repositries
+com.cognizant.service
+com.cognizant.services
